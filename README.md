@@ -1,4 +1,4 @@
-### Hi there 👋
+![291c5593304891ff1607d696f9f3b7a6](https://github.com/user-attachments/assets/72582a80-2370-4612-a3af-f98804f9ffde)![291c5593304891ff1607d696f9f3b7a6](https://github.com/user-attachments/assets/df847d78-12de-4b5c-b7cd-fb7db0826d26)### Hi there 👋
 
 <!--
 **Mahmoud-Italy/Mahmoud-Italy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,7 +31,6 @@ potentially in a technical role
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Mahmoud-italy&show_icons=true&theme=radical)
 -->
-
-
 <img src="[https://api.2payme.com/uploads/291c5593304891ff1607d696f9f3b7a6.gif](https://api.2payme.com/uploads/291c5593304891ff1607d696f9f3b7a6.gif)" style="width:500px">
+
 
