@@ -2,8 +2,6 @@
 <!--### Hi there 👋 -->
 ![203785020-2b4826c1-7ddb-4de8-b65b-ebf6e04c5290](https://github.com/user-attachments/assets/aa93a0f0-3f82-4ecb-82c2-a2a5e8bb5109)
 
-
-
 <!--
 **Mahmoud-Italy/Mahmoud-Italy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
