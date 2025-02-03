@@ -2,6 +2,21 @@
 <!--### Hi there 👋 -->
 ![203785020-2b4826c1-7ddb-4de8-b65b-ebf6e04c5290](https://github.com/user-attachments/assets/aa93a0f0-3f82-4ecb-82c2-a2a5e8bb5109)
 
+
+<!--![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Mahmoud-italy&show_icons=true&theme=radical)-->
+
+
+
+<!--[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
+
+
+#### Technical Skills & Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,symfony,nodejs,express,go,kotlin,graphql,react,angular,vue,vuetify,vite,elasticsearch,phpstorm,vscode,visualstudio,git,py,perl,kubernetes,docker,vim,js,npm,nuxtjs,nextjs,jest,html,css,sass,typescript,bootstrap,tailwind,mysql,postgresql,mongodb,redis,aws,azure,terraform,nginx,ubuntu,rabbitmq,kafka,powershell,postman,linux,ai,heroku,gradle,gitlab,github,figma,firebase,elixir,discord,cypress,cloudflare,blender,bitbucket,arch,alpinejs,anaconda,androidstudio,ansible,apollo,appwrite,arduino,astro,atom,jenkins,babel,bash,bevy" />
+  </a>
+</p>
+
 <!--
 **Mahmoud-Italy/Mahmoud-Italy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -35,6 +50,5 @@ potentially in a technical role
 -->
 <!-- ![291c5593304891ff1607d696f9f3b7a6](https://github.com/user-attachments/assets/df847d78-12de-4b5c-b7cd-fb7db0826d26) -->
 <!--<img src="[https://api.2payme.com/uploads/291c5593304891ff1607d696f9f3b7a6.gif](https://api.2payme.com/uploads/291c5593304891ff1607d696f9f3b7a6.gif)" style="width:500px">-->
-
 
 
