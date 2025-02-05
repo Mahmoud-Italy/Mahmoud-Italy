@@ -21,7 +21,7 @@ I am always eager to solve complex engineering challenges, optimize performance,
 
 #### Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)]
+![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)
 
 
 #### Technical Skills & Tools
