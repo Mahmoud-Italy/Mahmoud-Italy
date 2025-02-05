@@ -3,7 +3,10 @@
 ![203785020-2b4826c1-7ddb-4de8-b65b-ebf6e04c5290](https://github.com/user-attachments/assets/aa93a0f0-3f82-4ecb-82c2-a2a5e8bb5109)
 
 
-<!--![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Mahmoud-italy&show_icons=true&theme=radical)-->
+<!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Mahmoud-italy&show_icons=true&theme=radical) -->
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud-italy&hide_progress=true&layout=donut-vertical)-->
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Mahmoud-italy&show_icons=true&theme=radical)
 
 #### About
 <p>
@@ -15,7 +18,10 @@ In addition, I have experience in DevOps, Microservices, and Cloud technologies,
 <p>
 I am always eager to solve complex engineering challenges, optimize performance, and collaborate on innovative projects that drive technological growth.
 </p>
-<!--[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
+
+#### Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)]
 
 
 #### Technical Skills & Tools
