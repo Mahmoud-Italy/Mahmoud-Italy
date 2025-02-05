@@ -6,7 +6,7 @@
 <!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Mahmoud-italy&show_icons=true&theme=radical) -->
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud-italy&hide_progress=true&layout=donut-vertical)-->
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Mahmoud-italy&show_icons=true&theme=radical)
+<!--![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Mahmoud-italy&show_icons=true&theme=radical)-->
 
 #### About
 <p>
@@ -21,7 +21,7 @@ I am always eager to solve complex engineering challenges, optimize performance,
 
 #### Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)
+![Trophy](https://github-profile-trophy.vercel.app/?username=Mahmoud-italy&theme=onedark&no-bg=true&no-frame=true&column=9)
 
 
 #### Technical Skills & Tools
