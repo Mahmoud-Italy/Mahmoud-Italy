@@ -5,8 +5,16 @@
 
 <!--![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Mahmoud-italy&show_icons=true&theme=radical)-->
 
-
-
+#### About
+<p>
+Software Engineer with 8+ years of experience, specializing in building scalable, high-performance web applications using PHP (Laravel, Symfony), Go, Kotlin, and modern JavaScript frameworks like React and Vue. My passion lies in crafting maintainable architectures, optimizing databases, and developing RESTful APIs that power seamless user experiences.
+</p>
+<p>
+In addition, I have experience in DevOps, Microservices, and Cloud technologies, enabling me to design and deploy scalable, cloud-native applications, as well as leveraging microservices architectures to build flexible, maintainable, and distributed systems.
+</p>
+<p>
+I am always eager to solve complex engineering challenges, optimize performance, and collaborate on innovative projects that drive technological growth.
+</p>
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 
