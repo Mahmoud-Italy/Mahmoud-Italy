@@ -22,7 +22,6 @@ I am always eager to solve complex engineering challenges, optimize performance,
 <!-- #### Trophies -->
 
 ![Coding GIF](https://media.giphy.com/media/yourGIFid/giphy.gif)
-![Coding GIF](https://media.giphy.com/media/yourGIFid/giphy.gif)
 
 
 
