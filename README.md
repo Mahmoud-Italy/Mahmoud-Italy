@@ -21,8 +21,11 @@ I am always eager to solve complex engineering challenges, optimize performance,
 
 <!-- #### Trophies -->
 
-![Coding GIF](https://media.giphy.com/media/yourGIFid/giphy.gif)
+<!-- ![Coding GIF](https://media.giphy.com/media/yourGIFid/giphy.gif) -->
 
+<div align="center">
+  <img src="https://media.giphy.com/media/l0HlQ7LR6ij2ZYwPq/giphy.gif" width="50%">
+</div>
 
 
 <!--![Trophy](https://github-profile-trophy.vercel.app/?username=Mahmoud-italy&theme=onedark&no-bg=true&no-frame=true&column=9) -->
