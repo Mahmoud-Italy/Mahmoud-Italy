@@ -35,11 +35,15 @@ I am always eager to solve complex engineering challenges, optimize performance,
 #### Technical Skills & Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,symfony,nodejs,express,go,kotlin,graphql,react,angular,vue,vuetify,vite,elasticsearch,phpstorm,vscode,visualstudio,git,py,perl,kubernetes,docker,vim,js,npm,nuxtjs,nextjs,jest,html,css,sass,typescript,bootstrap,tailwind,mysql,postgresql,mongodb,redis,aws,azure,terraform,nginx,ubuntu,rabbitmq,kafka,powershell,postman,linux,ai,heroku,gradle,gitlab,github,figma,firebase,elixir,discord,cypress,cloudflare,blender,bitbucket,arch,alpinejs,anaconda,androidstudio,ansible,apollo,appwrite,arduino,astro,atom,jenkins,babel,bash,bevy" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,symfony,nodejs,express,go,kotlin,graphql,react,angular,vue,vuetify,vite,elasticsearch,phpstorm,vscode,visualstudio,git,py,perl,kubernetes,docker,vim,js,npm,nuxtjs,nextjs,jest,html,css,sass,babel,typescript,bootstrap,tailwind,mysql,postgresql,mongodb,redis,aws,azure,terraform,rabbitmq,kafka,postman,ai,heroku,gradle,gitlab,figma,firebase,cloudflare,bitbucket,androidstudio,apollo,jenkins,powershell,nginx,ubuntu,linux" />
   </a>
 </p>
 
 <!--
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,symfony,nodejs,express,go,kotlin,graphql,react,angular,vue,vuetify,vite,elasticsearch,phpstorm,vscode,visualstudio,git,py,perl,kubernetes,docker,vim,js,npm,nuxtjs,nextjs,jest,html,css,sass,typescript,bootstrap,tailwind,mysql,postgresql,mongodb,redis,aws,azure,terraform,nginx,ubuntu,rabbitmq,kafka,powershell,postman,linux,ai,heroku,gradle,gitlab,github,figma,firebase,elixir,discord,cypress,cloudflare,blender,bitbucket,arch,alpinejs,anaconda,androidstudio,ansible,apollo,appwrite,arduino,astro,atom,jenkins,babel,bash,bevy" />
+  </a>
+</p>
 **Mahmoud-Italy/Mahmoud-Italy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
