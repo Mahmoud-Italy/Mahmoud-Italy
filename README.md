@@ -19,9 +19,14 @@ In addition, I have experience in DevOps, Microservices, and Cloud technologies,
 I am always eager to solve complex engineering challenges, optimize performance, and collaborate on innovative projects that drive technological growth.
 </p>
 
-#### Trophies
+<!-- #### Trophies -->
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=Mahmoud-italy&theme=onedark&no-bg=true&no-frame=true&column=9)
+![Coding GIF](https://media.giphy.com/media/yourGIFid/giphy.gif)
+![Coding GIF](https://media.giphy.com/media/yourGIFid/giphy.gif)
+
+
+
+<!--![Trophy](https://github-profile-trophy.vercel.app/?username=Mahmoud-italy&theme=onedark&no-bg=true&no-frame=true&column=9) -->
 
 
 #### Technical Skills & Tools
