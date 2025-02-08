@@ -52,7 +52,7 @@ I am always eager to solve complex engineering challenges, optimize performance,
 ### 🛠️ Technical Skills & Tools
 <p align="center">
   <a href="https://github.com/Mahmoud-Italy">
-    <img src="https://skillicons.dev/icons?i=php,laravel,symfony,go,kotlin,nodejs,express,graphql,react,angular,vue,vuetify,vite,elasticsearch,phpstorm,vscode,visualstudio,git,py,perl,kubernetes,docker,vim,js,npm,nuxtjs,nextjs,jest,html,css,sass,babel,typescript,bootstrap,tailwind,mysql,postgresql,mongodb,redis,aws,azure,terraform,rabbitmq,kafka,postman,ai,heroku,gradle,gitlab,figma,firebase,cloudflare,bitbucket,androidstudio,apollo,jenkins,powershell,nginx,ubuntu,linux" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,symfony,go,kotlin,electron,nodejs,express,graphql,react,vue,vuetify,vite,elasticsearch,phpstorm,vscode,fediverse,git,py,perl,kubernetes,docker,vim,js,npm,nuxtjs,nextjs,jest,html,css,sass,babel,typescript,bootstrap,tailwind,mysql,postgresql,mongodb,redis,aws,azure,terraform,rabbitmq,kafka,postman,ai,heroku,gradle,gitlab,figma,firebase,cloudflare,bitbucket,androidstudio,apollo,jenkins,powershell,nginx,ubuntu,linux" />
   </a>
 </p>
 
