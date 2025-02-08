@@ -43,7 +43,7 @@ I am always eager to solve complex engineering challenges, optimize performance,
 → Continuously explore new technologies to push boundaries. <br />
 
 ### 🎉 Fun Facts
-🌟 "Code is like poetry. The fewer the words, the greater the impact." – Bjarne Stroustrup (Creator of C++)
+<i>"Code is like poetry. The fewer the words, the greater the impact." – Bjarne Stroustrup (Creator of C++)</i>
 
 
 <!--![Trophy](https://github-profile-trophy.vercel.app/?username=Mahmoud-italy&theme=onedark&no-bg=true&no-frame=true&column=9) -->
