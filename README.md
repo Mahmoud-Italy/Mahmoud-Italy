@@ -43,7 +43,7 @@ I am always eager to solve complex engineering challenges, optimize performance,
 🔍 Continuously explore new technologies to push boundaries. <br />
 
 ### 🏆 LeetCode
-🧠 Constantly sharpening problem-solving skills with algorithm challenges on <a href="https://leetcode.com/u/Ma7med/" target="_blank">LeetCode</a>. <br />
+🧠 Constantly sharpening problem-solving skills with algorithm challenges on LeetCode. <br />
 📚 Strong focus on algorithms, data structures, and optimization techniques. <br />
 💬 Actively contributing solutions and discussing improvements with the community. <br />
 
