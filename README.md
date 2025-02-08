@@ -30,9 +30,9 @@ I am always eager to solve complex engineering challenges, optimize performance,
  -->
 
 ### 👋 Hey there, I'm Mahmoud Ahmed
-🚀 Software Engineer | PHP | Laravel | Symfony | VueJs | React | Go | Kotlin | DevOps | Microservices <br />
+🚀 Software Engineer • PHP • Laravel • Symfony • Go • Echo • Vue • React • Kotlin • DevOps <br />
 💡 Passionate about building scalable, high-performance web applications with clean, maintainable code. <br />
-🔧 Experienced in component-based architecture, database optimization, and real-time systems. <br />
+🔧 Experienced in component-based architecture and microservices, database optimization, and real-time systems. <br />
 🎯 Advocate for SOLID principles, OOP, DRY, KISS, YAGNI, WebSockets, RabbitMQ, Kafka. <br />
 💻 Skilled in containerization and orchestration using Docker, Kubernetes, Terraform, and CI/CD pipelines. <br />
 
@@ -52,7 +52,7 @@ I am always eager to solve complex engineering challenges, optimize performance,
 ### 🛠️ Technical Skills & Tools
 <p align="center">
   <a href="https://github.com/Mahmoud-Italy">
-    <img src="https://skillicons.dev/icons?i=php,laravel,symfony,nodejs,express,go,kotlin,graphql,react,angular,vue,vuetify,vite,elasticsearch,phpstorm,vscode,visualstudio,git,py,perl,kubernetes,docker,vim,js,npm,nuxtjs,nextjs,jest,html,css,sass,babel,typescript,bootstrap,tailwind,mysql,postgresql,mongodb,redis,aws,azure,terraform,rabbitmq,kafka,postman,ai,heroku,gradle,gitlab,figma,firebase,cloudflare,bitbucket,androidstudio,apollo,jenkins,powershell,nginx,ubuntu,linux" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,symfony,go,kotlin,nodejs,express,graphql,react,angular,vue,vuetify,vite,elasticsearch,phpstorm,vscode,visualstudio,git,py,perl,kubernetes,docker,vim,js,npm,nuxtjs,nextjs,jest,html,css,sass,babel,typescript,bootstrap,tailwind,mysql,postgresql,mongodb,redis,aws,azure,terraform,rabbitmq,kafka,postman,ai,heroku,gradle,gitlab,figma,firebase,cloudflare,bitbucket,androidstudio,apollo,jenkins,powershell,nginx,ubuntu,linux" />
   </a>
 </p>
 
