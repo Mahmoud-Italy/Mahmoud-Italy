@@ -23,16 +23,32 @@ I am always eager to solve complex engineering challenges, optimize performance,
 <!-- #### Trophies -->
 
 <!-- ![Coding GIF](https://media.giphy.com/media/yourGIFid/giphy.gif) -->
-
+<!--
 <div align="center">
   <img src="https://media.giphy.com/media/l0HlQ7LR6ij2ZYwPq/giphy.gif" width="70%">
 </div>
+ -->
+
+### 👋 Hey there, I'm Mahmoud Ahmed
+  🚀 Software Engineer | PHP | Laravel | Symfony | VueJs | React | GoLang | Kotlin <br />
+💡 Passionate about building scalable, high-performance web applications with clean, maintainable code. <br />
+🔧 Experienced in RESTful APIs, component-based architecture, database optimization, and real-time systems. <br />
+🎯 Advocate for SOLID principles, OOP, DRY, KISS, YAGNI, WebSockets, RabbitMQ, Kafka. <br />
+
+### 📌 What I Do
+→ Architect and develop highly scalable web applications. <br />
+→ Optimize performance for high-traffic systems. <br />
+→ Follow best practices in code quality, testing, and security. <br />
+→ Continuously explore new technologies to push boundaries. <br />
+
+### 🎉 Fun Facts
+🌟 "Code is like poetry. The fewer the words, the greater the impact." – Bjarne Stroustrup (creator of C++)
 
 
 <!--![Trophy](https://github-profile-trophy.vercel.app/?username=Mahmoud-italy&theme=onedark&no-bg=true&no-frame=true&column=9) -->
 
 
-#### Technical Skills & Tools
+### 🛠️ Technical Skills & Tools
 <p align="center">
   <a href="https://github.com/Mahmoud-Italy">
     <img src="https://skillicons.dev/icons?i=php,laravel,symfony,nodejs,express,go,kotlin,graphql,react,angular,vue,vuetify,vite,elasticsearch,phpstorm,vscode,visualstudio,git,py,perl,kubernetes,docker,vim,js,npm,nuxtjs,nextjs,jest,html,css,sass,babel,typescript,bootstrap,tailwind,mysql,postgresql,mongodb,redis,aws,azure,terraform,rabbitmq,kafka,postman,ai,heroku,gradle,gitlab,figma,firebase,cloudflare,bitbucket,androidstudio,apollo,jenkins,powershell,nginx,ubuntu,linux" />
