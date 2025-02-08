@@ -30,10 +30,11 @@ I am always eager to solve complex engineering challenges, optimize performance,
  -->
 
 ### 👋 Hey there, I'm Mahmoud Ahmed
-🚀 Software Engineer | PHP | Laravel | Symfony | VueJs | React | Go | Kotlin | DevOps <br />
+🚀 Software Engineer | PHP | Laravel | Symfony | VueJs | React | Go | Kotlin | DevOps | Microservices <br />
 💡 Passionate about building scalable, high-performance web applications with clean, maintainable code. <br />
 🔧 Experienced in component-based architecture, database optimization, and real-time systems. <br />
 🎯 Advocate for SOLID principles, OOP, DRY, KISS, YAGNI, WebSockets, RabbitMQ, Kafka. <br />
+💻 Skilled in containerization and orchestration using Docker, Kubernetes, Terraform, and CI/CD pipelines. <br />
 
 ### 📌 What I Do
 → Architect and develop highly scalable web applications. <br />
@@ -42,7 +43,7 @@ I am always eager to solve complex engineering challenges, optimize performance,
 → Continuously explore new technologies to push boundaries. <br />
 
 ### 🎉 Fun Facts
-🌟 "Code is like poetry. The fewer the words, the greater the impact." – Bjarne Stroustrup (creator of C++)
+🌟 "Code is like poetry. The fewer the words, the greater the impact." – Bjarne Stroustrup (Creator of C++)
 
 
 <!--![Trophy](https://github-profile-trophy.vercel.app/?username=Mahmoud-italy&theme=onedark&no-bg=true&no-frame=true&column=9) -->
