@@ -30,17 +30,27 @@ I am always eager to solve complex engineering challenges, optimize performance,
  -->
 
 ### 👋 Hey there, I'm Mahmoud Ahmed
-🚀 Software Engineer • PHP • Laravel • Symfony • Go • Echo • Vue • React • Kotlin • DevOps <br />
+🖥️ Software Engineer • PHP • Laravel • Symfony • Go • Echo • Vue • React • Kotlin • DevOps. <br />
 💡 Passionate about building scalable, high-performance web applications with clean, maintainable code. <br />
 🔧 Experienced in component-based architecture and microservices, database optimization, and real-time systems. <br />
 🎯 Advocate for SOLID principles, OOP, DRY, KISS, YAGNI, WebSockets, RabbitMQ, Kafka. <br />
-💻 Skilled in containerization and orchestration using Docker, Kubernetes, Terraform, and CI/CD pipelines. <br />
+🚀 Skilled in containerization and orchestration using Docker, Kubernetes, Terraform, and CI/CD pipelines. <br />
 
 ### 📌 What I Do
-→ Architect and develop highly scalable web applications. <br />
-→ Optimize performance for high-traffic systems. <br />
-→ Follow best practices in code quality, testing, and security. <br />
-→ Continuously explore new technologies to push boundaries. <br />
+🛠️ Architect and develop highly scalable web applications. <br />
+⚡  Optimize performance for high-traffic systems. <br />
+🔐 Follow best practices in code quality, testing, and security. <br />
+🔍 Continuously explore new technologies to push boundaries. <br />
+
+### 🏆 LeetCode
+🧠 Constantly sharpening problem-solving skills with algorithm challenges on <a href="https://leetcode.com/u/Ma7med/" target="_blank">LeetCode</a>. <br />
+📚 Strong focus on algorithms, data structures, and optimization techniques. <br />
+💬 Actively contributing solutions and discussing improvements with the community. <br />
+
+### 📚 Interests
+🤖 Exploring the intersection of software engineering with Artificial Intelligence and Machine Learning. <br />
+🧠 Eager to learn how AI can transform industries and optimize complex systems. <br />
+🔍 Continuously experimenting with algorithms, neural networks, and data models to apply machine learning to real-world problems. <br />
 
 ### 🎉 Fun Facts
 <i>"Code is like poetry. The fewer the words, the greater the impact." – Bjarne Stroustrup (Creator of C++)</i>
