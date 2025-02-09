@@ -33,8 +33,8 @@ I am always eager to solve complex engineering challenges, optimize performance,
 💡 Passionate about building scalable, high-performance web applications with clean, maintainable code. <br />
 🔌 Experienced in component-based architecture and microservices, database optimization, and real-time systems. <br />
 🎯 Advocate for SOLID principles, OOP, DRY, KISS, YAGNI, WebSockets, RabbitMQ, Kafka. <br />
-🛡 Experienced in cybersecurity, ensuring secure coding practices, threat mitigation, and system hardening. <br />
 📡 Skilled in containerization and orchestration using Docker, Kubernetes, and Terraform to improve deployment efficiency and reduce downtime in high-traffic environments. <br />
+🛡 Experienced in cybersecurity, ensuring secure coding practices, threat mitigation, and system hardening. <br />
 
 ### 📌 What I Do
 🛠️ Architect and develop highly scalable web applications. <br />
