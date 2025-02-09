@@ -29,31 +29,32 @@ I am always eager to solve complex engineering challenges, optimize performance,
  -->
 
 ### 👋 Hey there, I'm Mahmoud Ahmed
-🗞 Software Engineer PHP | Laravel | Symfony | Go | Echo | Vue | React | Kotlin | Cybersecurity | DevOps. <br />
-💡 Passionate about building scalable, high-performance web applications with clean, maintainable code. <br />
-🔌 Experienced in component-based architecture and microservices, database optimization, and real-time systems. <br />
-🎯 Advocate for SOLID principles, OOP, DRY, KISS, YAGNI, WebSockets, RabbitMQ, Kafka. <br />
-📡 Skilled in containerization and orchestration using Docker, Kubernetes, and Terraform to improve deployment efficiency and reduce downtime in high-traffic environments. <br />
-🛡 Experienced in cybersecurity, ensuring secure coding practices, threat mitigation, and system hardening. <br />
+🗞 <b>Software Engineer</b> specializing in <b>PHP</b>, <b>Laravel</b>, <b>Symfony</b>, <b>Go</b>, <b>Echo</b>, <b>Vue</b>, <b>React</b>, <b>Kotlin</b>, and <b>Cybersecurity</b>. Passionate about building scalable, high-performance web applications with clean, maintainable code.<br />
+💡 Experienced in <b>component-based architecture</b>, <b>microservices</b>, <b>database optimization</b>, and <b>real-time systems</b>.<br />
+🎯 Advocate for <b>SOLID principles</b>, <b>OOP</b>, <b>DRY</b>, <b>KISS</b>, <b>YAGNI</b>, <b>WebSockets</b>, <b>RabbitMQ</b>, and <b>Kafka</b>.<br />
+📡 Skilled in <b>containerization</b> and <b>orchestration</b> using <b>Docker</b>, <b>Kubernetes</b>, and <b>Terraform</b> to improve deployment efficiency and reduce downtime in high-traffic environments.<br />
+🛡️ <b>Experienced in cybersecurity</b>, with a focus on <b>secure coding practices</b>, <b>threat mitigation</b>, and <b>system hardening</b>.<br />
 
 ### 📌 What I Do
-🛠️ Architect and develop highly scalable web applications. <br />
-⚡  Optimize performance for high-traffic systems. <br />
-🔐 Follow best practices in code quality, testing, and security. <br />
-🔍 Continuously explore new technologies to push boundaries. <br />
+🛠️ Architect and develop highly scalable web applications.<br />
+⚡ Optimize performance for high-traffic systems.<br />
+🔐 Follow best practices in <b>code quality</b>, <b>testing</b>, and <b>security</b>.<br />
+🔍 Continuously explore new technologies to push boundaries and solve real-world problems.<br />
 
 ### 🏆 LeetCode
-🧠 Constantly sharpening problem-solving skills with algorithm challenges on LeetCode. <br />
-📚 Strong focus on algorithms, data structures, and optimization techniques. <br />
-💬 Actively contributing solutions and discussing improvements with the community. <br />
+🧠 Constantly sharpening problem-solving skills with algorithm challenges on LeetCode.<br />
+📚 Focused on <b>algorithms</b>, <b>data structures</b>, and <b>optimization techniques</b>.<br />
+💬 Actively contributing solutions and engaging in discussions with the community.<br />
 
 ### 📚 Interests
-🤖 Exploring the intersection of software engineering with Artificial Intelligence and Machine Learning. <br />
-🧠 Eager to learn how AI can transform industries and optimize complex systems. <br />
-🔍 Continuously experimenting with algorithms, neural networks, and data models to apply machine learning to real-world problems. <br />
+🤖 Exploring the intersection of <b>software engineering</b> with <b>Artificial Intelligence</b> and <b>Machine Learning</b>.<br />
+🧠 Passionate about how <b>AI</b> can transform industries and optimize complex systems.<br />
+🔍 Continuously experimenting with <b>algorithms</b>, <b>neural networks</b>, and <b>data models</b> to apply machine learning to real-world problems.<br />
+🛡️ Deeply interested in <b>cybersecurity</b>, including <b>ethical hacking</b>, <b>cryptography</b>, <b>AI-powered security</b>, and <b>automated penetration testing</b>.<br />
+
 
 ### 🎉 Fun Facts
-<i>"Code is like poetry. The fewer the words, the greater the impact." – Bjarne Stroustrup (Creator of C++)</i>
+<i>"Code is like poetry. The fewer the words, the greater the impact." – <b>Bjarne Stroustrup</b> (Creator of C++)</i>
 
 
 <!--![Trophy](https://github-profile-trophy.vercel.app/?username=Mahmoud-italy&theme=onedark&no-bg=true&no-frame=true&column=9) -->
