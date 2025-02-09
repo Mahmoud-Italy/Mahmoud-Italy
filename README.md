@@ -30,27 +30,27 @@ I am always eager to solve complex engineering challenges, optimize performance,
 
 ### 👋 Hey there, I'm Mahmoud Ahmed
 🗞 <b>Software Engineer</b> specializing in <b>PHP</b>, <b>Laravel</b>, <b>Symfony</b>, <b>Go</b>, <b>Echo</b>, <b>Vue</b>, <b>React</b>, <b>Kotlin</b>, and <b>Cybersecurity</b>, Passionate about building scalable, high-performance web applications with clean, maintainable code.<br />
-💡 Experienced in <b>component-based architecture</b>, <b>microservices</b>, <b>database optimization</b>, and <b>real-time systems</b>.<br />
-🎯 Advocate for <b>SOLID principles</b>, <b>OOP</b>, <b>DRY</b>, <b>KISS</b>, <b>YAGNI</b>, <b>WebSockets</b>, <b>RabbitMQ</b>, and <b>Kafka</b>.<br />
+💡 Experienced in <b>Component-based Architecture</b>, <b>Microservices</b>, <b>Database Optimization</b>, and <b>Real-time Systems</b>.<br />
+🎯 Advocate for <b>SOLID Principles</b>, <b>OOP</b>, <b>DRY</b>, <b>KISS</b>, <b>YAGNI</b>, <b>WebSockets</b>, <b>RabbitMQ</b>, and <b>Kafka</b>.<br />
 📡 Skilled in <b>Containerization</b> and <b>Orchestration</b> using <b>Docker</b>, <b>Kubernetes</b>, and <b>Terraform</b> to improve deployment efficiency and reduce downtime in high-traffic environments.<br />
-🛡️ <b>Experienced in cybersecurity</b>, with a focus on <b>Secure coding practices</b>, <b>Threat mitigation</b>, and <b>System hardening</b>.<br />
+🛡️ <b>Experienced in cybersecurity</b>, with a focus on <b>Secure Coding Practices</b>, <b>Threat Mitigation</b>, and <b>System Hardening</b>.<br />
 
 ### 📌 What I Do
 🛠️ Architect and develop highly scalable web applications.<br />
 ⚡ Optimize performance for high-traffic systems.<br />
-🔐 Follow best practices in <b>Code quality</b>, <b>Testing</b>, and <b>Security</b>.<br />
+🔐 Follow best practices in <b>Code Quality</b>, <b>Testing</b>, and <b>Security</b>.<br />
 🔍 Continuously explore new technologies to push boundaries and solve real-world problems.<br />
 
 ### 🏆 LeetCode
 🧠 Constantly sharpening problem-solving skills with algorithm challenges on LeetCode.<br />
-📚 Focused on <b>Algorithms</b>, <b>Data structures</b>, and <b>Optimization techniques</b>.<br />
+📚 Focused on <b>Algorithms</b>, <b>Data Structures</b>, and <b>Optimization Techniques</b>.<br />
 💬 Actively contributing solutions and engaging in discussions with the community.<br />
 
 ### 📚 Interests
 🤖 Exploring the intersection of <b>Software engineering</b> with <b>Artificial Intelligence</b> and <b>Machine Learning</b>.<br />
 🧠 Passionate about how <b>AI</b> can transform industries and optimize complex systems.<br />
-🔍 Continuously experimenting with <b>Algorithms</b>, <b>Neural networks</b>, and <b>Data models</b> to apply machine learning to real-world problems.<br />
-🛡️ Deeply interested in <b>Cybersecurity</b>, including <b>Ethical hacking</b>, <b>Cryptography</b>, <b>AI-powered security</b>, and <b>Automated penetration testing</b>.<br />
+🔍 Continuously experimenting with <b>Algorithms</b>, <b>Neural Networks</b>, and <b>Data models</b> to apply machine learning to real-world problems.<br />
+🛡️ Deeply interested in <b>Cybersecurity</b>, including <b>Ethical Hacking</b>, <b>Cryptography</b>, <b>AI-powered Security</b>, and <b>Automated Penetration Testing</b>.<br />
 
 
 ### 🎉 Fun Facts
