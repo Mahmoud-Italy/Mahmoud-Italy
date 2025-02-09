@@ -29,7 +29,7 @@ I am always eager to solve complex engineering challenges, optimize performance,
  -->
 
 ### 👋 Hey there, I'm Mahmoud Ahmed
-🗞 Software Engineer PHP | Laravel | Symfony | Go | Echo | Vue | React | Kotlin | DevOps. <br />
+🗞 Software Engineer PHP | Laravel | Symfony | Go | Echo | Vue | React | Kotlin | Cybersecurity | DevOps. <br />
 💡 Passionate about building scalable, high-performance web applications with clean, maintainable code. <br />
 🔌 Experienced in component-based architecture and microservices, database optimization, and real-time systems. <br />
 🎯 Advocate for SOLID principles, OOP, DRY, KISS, YAGNI, WebSockets, RabbitMQ, Kafka. <br />
