@@ -29,7 +29,7 @@ I am always eager to solve complex engineering challenges, optimize performance,
  -->
 
 ### 👋 Hey there, I'm Mahmoud Ahmed
-🗞 <b>Software Engineer</b> specializing in <b>PHP</b>, <b>Laravel</b>, <b>Symfony</b>, <b>Go</b>, <b>Echo</b>, <b>Vue</b>, <b>React</b>, <b>Kotlin</b>, and <b>Cybersecurity</b>. Passionate about building scalable, high-performance web applications with clean, maintainable code.<br />
+🗞 <b>Software Engineer</b> specializing in <b>PHP</b>, <b>Laravel</b>, <b>Symfony</b>, <b>Go</b>, <b>Echo</b>, <b>Vue</b>, <b>React</b>, <b>Kotlin</b>, and <b>Cybersecurity</b>, Passionate about building scalable, high-performance web applications with clean, maintainable code.<br />
 💡 Experienced in <b>component-based architecture</b>, <b>microservices</b>, <b>database optimization</b>, and <b>real-time systems</b>.<br />
 🎯 Advocate for <b>SOLID principles</b>, <b>OOP</b>, <b>DRY</b>, <b>KISS</b>, <b>YAGNI</b>, <b>WebSockets</b>, <b>RabbitMQ</b>, and <b>Kafka</b>.<br />
 📡 Skilled in <b>containerization</b> and <b>orchestration</b> using <b>Docker</b>, <b>Kubernetes</b>, and <b>Terraform</b> to improve deployment efficiency and reduce downtime in high-traffic environments.<br />
