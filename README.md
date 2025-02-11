@@ -29,7 +29,7 @@ I am always eager to solve complex engineering challenges, optimize performance,
  -->
 
 ### 👋 Hey there, I'm Mahmoud Ahmed
-🗞 <b>Software Engineer</b> specializing in <b>PHP</b>, <b>Laravel</b>, <b>Symfony</b>, <b>Go</b>, <b>Echo</b>, <b>Vue</b>, <b>React</b>, <b>Kotlin</b>, <b>DevOps</b> and <b>Cybersecurity</b>. <br /> 
+🗞 <b>Software Engineer</b> specializing in <b>PHP</b>, <b>Laravel</b>, <b>Symfony</b>, <b>Go</b>, <b>Vue</b>, <b>React</b>, <b>Kotlin</b>, <b>DevOps</b> and <b>Cybersecurity</b>. <br /> 
 💡 Passionate about building <b>Scalable</b>, <b>High Performance</b> web applications with clean, maintainable code.<br />
 🗃 Experienced in <b>Component-based Architecture</b>, <b>Microservices</b>, <b>Database Optimization</b>, and <b>Real-time Systems</b>.<br />
 🎯 Advocate for <b>SOLID Principles</b>, <b>OOP</b>, <b>DRY</b>, <b>KISS</b>, <b>YAGNI</b>, <b>WebSockets</b>, <b>RabbitMQ</b>, and <b>Kafka</b>.<br />
@@ -48,10 +48,10 @@ I am always eager to solve complex engineering challenges, optimize performance,
 💬 Actively contributing solutions and engaging in discussions with the community.<br />
 
 ### 📚 Interests
-🤖 Exploring the intersection of <b>Software engineering</b> with <b>Artificial Intelligence</b> and <b>Machine Learning</b>.<br />
+🤖 Exploring the intersection of <b>Software Engineering</b> with <b>Artificial Intelligence</b> and <b>Machine Learning</b>.<br />
 🧠 Passionate about how <b>AI</b> can transform industries and optimize complex systems.<br />
-🔍 Continuously experimenting with <b>Algorithms</b>, <b>Neural Networks</b>, and <b>Data models</b> to apply machine learning to real-world problems.<br />
-🛡️ Deeply interested in <b>Cybersecurity</b>, including <b>Ethical Hacking</b>, <b>Cryptography</b>, <b>AI-powered Security</b>, and <b>Automated Penetration Testing</b>.<br />
+🔍 Continuously experimenting with <b>Algorithms</b>, <b>Neural Networks</b>, and <b>Data Models</b> to apply machine learning to real-world problems.<br />
+🛡️ Deeply interested in <b>Cybersecurity</b>, including <b>Ethical Hacking</b>, <b>Cryptography</b>, <b>AI-Powered Security</b>, and <b>Automated Penetration Testing</b>.<br />
 
 
 ### 🎉 Fun Facts
