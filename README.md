@@ -33,7 +33,7 @@ I am always eager to solve complex engineering challenges, optimize performance,
 💡 Passionate about building <b>Scalable</b>, <b>High Performance</b> web applications with clean, maintainable code.<br />
 🗃 Experienced in <b>Component-based Architecture</b>, <b>Microservices</b>, <b>Database Optimization</b>, and <b>Real-time Systems</b>.<br />
 🎯 Advocate for <b>SOLID Principles</b>, <b>OOP</b>, <b>DRY</b>, <b>KISS</b>, <b>YAGNI</b>, <b>WebSockets</b>, <b>RabbitMQ</b>, and <b>Kafka</b>.<br />
-📡 Skilled in <b>Containerization</b> and <b>Orchestration</b> using <b>Docker</b>, <b>Kubernetes</b>, and <b>Terraform</b> to improve deployment efficiency and reduce downtime in high-traffic environments.<br />
+☸️ Skilled in <b>Containerization</b> and <b>Orchestration</b> using <b>Docker</b>, <b>Kubernetes</b>, and <b>Terraform</b> to improve deployment efficiency and reduce downtime in high-traffic environments.<br />
 🛡️ <b>Experienced in Cybersecurity</b>, with a focus on <b>Secure Coding Practices</b>, <b>Threat Mitigation</b>, and <b>System Hardening</b>.<br />
 
 ### 📌 What I Do
