@@ -27,7 +27,7 @@ I am always eager to solve complex engineering challenges, optimize performance,
 <!--
 <div align="center">
   <img src="https://media.giphy.com/media/l0HlQ7LR6ij2ZYwPq/giphy.gif" width="70%">
-</div>
+</div> 
  -->
  
 
